@@ -1,1 +1,1 @@
-# uri_autometic_submission
+# uri_automatic_submission
